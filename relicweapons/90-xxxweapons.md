@@ -2,6 +2,6 @@
 
 ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/)
 
-|段階|IL|名称|素材|ナ|戦|暗|ガ|白|学|占|賢|モ|竜|忍|侍|リ|詩|機|踊|黒|召|赤|
-|---|--|----|---|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|1|???|original|???|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
+|段階|IL|名称|素材|入手方法|ナ|戦|暗|ガ|白|学|占|賢|モ|竜|忍|侍|リ|詩|機|踊|黒|召|赤|
+|---|--|----|---|-------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|1|???|original|???|???|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
