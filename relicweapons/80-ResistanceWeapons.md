@@ -2,8 +2,8 @@
 
 ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/rw/)
 
-|段階|IL|名称|素材|入手方法|ナ|戦|暗|ガ|白|学|占|モ|竜|忍|侍|詩|機|踊|黒|召|赤|
-|--|---|-----------|-----------|----------------------|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|段階|IL|名称 &nbsp; &nbsp; |素材 &nbsp; &nbsp; &nbsp; &nbsp; |入手方法 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |ナ|戦|暗|ガ|白|学|占|モ|竜|忍|侍|詩|機|踊|黒|召|赤|
+|:---|:---|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |1|485|original|サベネアの霊鱗粉×4|詩学250|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:white_check_mark:|
 |2|500|RE|悩ましき記憶の一塊×20  悲しき記憶の一塊×20  恐ろしき記憶の一塊×20|クルザス西部高地/アバラシア雲海FATE  高地ドラヴァニア/ドラヴァニア雲海FATE  低地ドラヴァニア/アジスラーFATE  ボズヤ戦線|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:white_check_mark:|
 |3|500|リコレクション|猛々しき記憶の一塊×6|60ID,レベルレ  ボズヤ戦線|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|
