@@ -1,1 +1,1 @@
-# ffxiv-macros
+# FFXIV PlayGuide for ORCA
