@@ -2,7 +2,7 @@
 
 ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/rw/)
 
-|段階|IL|名称|ナ|戦|暗|ガ|白|学|占|モ|竜|忍|侍|詩|機|踊|黒|召|赤|素材|入手方法|
+|段階|IL|名称|ナ|戦|暗|ガ|白|学|占|モ|竜|忍|侍|詩|機|踊|黒|召|赤|素材<img width=200/>|入手方法<img width=200/>|
 |:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|:---|
 |1|485|original|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:white_check_mark:|サベネアの霊鱗粉×4|詩学250|
 |2|500|RE|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:white_check_mark:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:heavy_multiplication_x:|:white_check_mark:|悩ましき記憶の一塊×20  悲しき記憶の一塊×20  恐ろしき記憶の一塊×20|クルザス西部高地/アバラシア雲海FATE  高地ドラヴァニア/ドラヴァニア雲海FATE  低地ドラヴァニア/アジスラーFATE  ボズヤ戦線|
