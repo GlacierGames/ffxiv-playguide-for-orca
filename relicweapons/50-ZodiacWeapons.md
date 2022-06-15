@@ -1,8 +1,6 @@
 # 50-ZodiacWeapons
 
-# 60-AnimaWeapons
-
-ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/aw/)
+ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/zw/)
 
 ## Preconditions
 
