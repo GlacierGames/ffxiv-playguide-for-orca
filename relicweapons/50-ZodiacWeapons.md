@@ -25,8 +25,10 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/zw/)
 
 ## Wepon detail
 
-| Phase | IL | 素材 | 入手方法 |
-| :---: | :---: | :--- | :--- |
+( )内の数字は `残り必要数/全ジョブ想定数`
+
+| Phase | IL | Quest | 素材 | 入手方法 |
+| :---: | :---: | :--- | :--- | :--- |
 | 1 | 50 | ??? | ??? | 
 | 2 | 80 | ??? | ??? | 
 | 3 | 90 | ??? | ??? | 
@@ -36,3 +38,6 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/zw/)
 | 7 | 115 | ??? | ??? | 
 | 8 | 125 | ??? | ??? | 
 | 9 | 135 | ??? | ??? | 
+
+---
+(C) SQUARE ENIX CO., LTD. All Rights Reserved.

@@ -10,8 +10,10 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/)
 
 ## Wepon detail
 
-| Phase | IL | 素材 | 入手方法 |
-| :---: | :---: | :--- | :--- |
-| 1 | ??? | ??? | ??? | 
+| Phase | IL | Quest | 素材 | 入手方法 |
+| :---: | :---: | :--- | :--- | :--- |
+| 1 | ??? | ??? | ??? | ??? | 
 
 
+---
+(C) SQUARE ENIX CO., LTD. All Rights Reserved.

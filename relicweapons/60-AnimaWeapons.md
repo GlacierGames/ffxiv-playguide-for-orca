@@ -28,16 +28,14 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/aw/)
 
 | Phase | IL | Quest | 素材 | 入手方法 |
 | :---: | :---: | :--- | :--- | :--- |
-| 1 | 170 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/0136a6df60a/" class="eorzeadb_link">新たな武器の創造を</a> | 発光性アイスクリスタルx1(11/13)<br />発光性アースクリスタルx1(11/13)<br />発光性ウォータークリスタルx1(11/13)<br />発光性ウィンドクリスタルx1(11/13)<br />発光性ファイアクリスタルx1(11/13)<br />発光性ライトニングクリスタルx1(11/13) | クルザス西部高地FATE<br />高地ドラヴァニアFATE<br />低地ドラヴァニア<br />アバラシア雲海FATE<br />アジス・ラーFATE<br />ドラヴァニア雲海FATE | 
-| 2 | 200 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/3a19d47a205/" class="eorzeadb_link">英雄の軌跡</a>  | - | **アニマウェポンを装備して以下のIDをクリア**<br />1. スノークローク<br />2. サスタシャHARD<br />3. カルンHARD<br />4. 黙約の塔<br />5. ワンダラーパレスHARD<br />6. 古城アムダプールHARD<br />7. ダスクヴィジル<br />8. ソーム・アル<br />9. ドラゴンズエアリー<br />10. イシュガルド教皇庁 | 
-| 3 | 210 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/a37d18ed018/" class="eorzeadb_link">煌めくアニマウェポン</a> | 謎めいた骨片x10(120/130)<br />謎めいた貝殻x10(120/130)<br />謎めいた原石x10(120/130)<br />謎めいた種子x10(120/130)<br />アダマンフランシスカx4(48/52)<br />チタンアロイミラーx4(48/52)<br />破魔矢x4(48/52)<br />ブリオッシュデロワx4(48/52) | 謎めいた〜: 詩学150<br />他: 軍票5,000 | 
-| 4 | 230 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/bf6394ecf52/" class="eorzeadb_link">人造精霊の声</a> | アラグの絶霊油x5(60/65) | 詩学350 |
-| 5 | 240 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/1ef99ba9eeb/" class="eorzeadb_link">人造精霊は開花する</a> | 硬霊性岩x60(660/720)<br />クリスタルサンドx60(660/720) | 詩学75<br />各種交換
-| 6 | 260 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/855114f5906/" class="eorzeadb_link">人造精霊の未来</a> | 活性化クラスターx50(600/650) | 詩学40 | 
-| 7 | 270 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/496ec3951a9/" class="eorzeadb_link">人造精霊は咲き誇る</a> | - | **以下のIDをクリア**<br />1. 古アムダプール市街HARD<br />2. グブラHARD<br />3. ソーム・アルHARD |
-| 8 | 275 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/9da6270b969/" class="eorzeadb_link">人造精霊の相棒</a> | ??? | 
+| 1 | 170 | [新たな武器の創造を](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/0136a6df60a/) | 発光性アイスクリスタルx1(11/13)<br />発光性アースクリスタルx1(11/13)<br />発光性ウォータークリスタルx1(11/13)<br />発光性ウィンドクリスタルx1(11/13)<br />発光性ファイアクリスタルx1(11/13)<br />発光性ライトニングクリスタルx1(11/13) | クルザス西部高地FATE<br />高地ドラヴァニアFATE<br />低地ドラヴァニア<br />アバラシア雲海FATE<br />アジス・ラーFATE<br />ドラヴァニア雲海FATE | 
+| 2 | 200 | [英雄の軌跡](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/3a19d47a205/)  | - | **アニマウェポンを装備して以下のIDをクリア**<br />1. スノークローク<br />2. サスタシャHARD<br />3. カルンHARD<br />4. 黙約の塔<br />5. ワンダラーパレスHARD<br />6. 古城アムダプールHARD<br />7. ダスクヴィジル<br />8. ソーム・アル<br />9. ドラゴンズエアリー<br />10. イシュガルド教皇庁 | 
+| 3 | 210 | [煌めくアニマウェポン](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/a37d18ed018/) | 謎めいた骨片x10(120/130)<br />謎めいた貝殻x10(120/130)<br />謎めいた原石x10(120/130)<br />謎めいた種子x10(120/130)<br />アダマンフランシスカx4(48/52)<br />チタンアロイミラーx4(48/52)<br />破魔矢x4(48/52)<br />ブリオッシュデロワx4(48/52) | 謎めいた〜: 詩学150<br />他: 軍票5,000 | 
+| 4 | 230 | [人造精霊の声](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/bf6394ecf52/) | アラグの絶霊油x5(60/65) | 詩学350 |
+| 5 | 240 | [人造精霊は開花する](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/1ef99ba9eeb/) | 硬霊性岩x60(660/720)<br />クリスタルサンドx60(660/720) | 詩学75<br />各種交換
+| 6 | 260 | [人造精霊の未来](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/855114f5906/) | 活性化クラスターx50(600/650) | 詩学40 | 
+| 7 | 270 | [人造精霊は咲き誇る](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/496ec3951a9/) | - | **以下のIDをクリア**<br />1. 古アムダプール市街HARD<br />2. グブラHARD<br />3. ソーム・アルHARD |
+| 8 | 275 | [人造精霊の相棒](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/9da6270b969/) | ??? | 
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
-
-<script src="https://img.finalfantasyxiv.com/lds/pc/global/js/eorzeadb/loader.js?v2"></script>
