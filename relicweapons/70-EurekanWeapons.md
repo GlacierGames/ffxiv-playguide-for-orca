@@ -32,7 +32,8 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/ew/)
 
 ## Wepon detail
 
-( )内の数字は `残り必要数/全ジョブ想定数`
+- 1本目のみのクエストは記載していません
+- ( )内の数字は `残り必要数/全ジョブ想定数` です
 
 | Phase | IL | 素材 | 入手方法 |
 | :---: | :---: | :--- | :--- |
