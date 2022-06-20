@@ -7,14 +7,15 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/ew/)
 | Item | Value |
 | :--- | :--- |
 | Job Level | 70 |
+| Eurekan Level | アネモス帯: 1-20<br />パゴス帯: 21-35<br />ピューロス帯: 36-50<br />ヒュダトス帯: 51-60 |
 | Job Numbers | Tank 3<br />Healer 3<br />Melee 4<br />Range 2<br />Caster 3<br />---<br />Total 15 |
 
 ## Achievement status
 
 | Phase | Name | Progress | ナ | 戦 | 暗 | 白 | 学 | 占 | モ | 竜 | 忍 | 侍 | 詩 | 機 | 黒 | 召 | 赤 |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | エウレカウェポン | /15 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
-| 2 | エウレカウェポン+1 | /15 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
+| 1 | エウレカウェポン | 4/15 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
+| 2 | エウレカウェポン+1 | 4/15 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
 | 3 | エウレカウェポン+2 | 3/15 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
 | 4 | アネモス | 3/15 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
 | 5 | パゴス | 0/15 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
@@ -31,20 +32,27 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/ew/)
 
 ## Wepon detail
 
+( )内の数字は `残り必要数/全ジョブ想定数`
+
 | Phase | IL | 素材 | 入手方法 |
 | :---: | :---: | :--- | :--- |
-| 1 | 335 | ??? | ??? | 
-| 2 | 340 | ??? | ??? | 
-| 3 | 345 | ??? | ??? | 
-| 4 | 355 | ??? | ??? | 
-| 5 | 360 | ??? | ??? | 
-| 6 | 365 | ??? | ??? | 
-| 7 | 370 | ??? | ??? | 
-| 8 | 375 | ??? | ??? | 
-| 9 | 380 | ??? | ??? | 
-| 10 | 385 | ??? | ??? | 
-| 11 | 390 | ??? | ??? | 
-| 12 | 395 | ??? | ??? | 
-| 13 | 400 | ??? | ??? | 
-| 14 | 405 | ??? | ??? | 
-| 15 | 405 | ??? | ??? | 
+| 1 | 335 | 乱属性クリスタルx100(1,100/1,500) | 禁断の地エウレカ アネモス帯 | 
+| 2 | 340 | 乱属性クリスタルx400(4,400/6,000) | 禁断の地エウレカ アネモス帯 | 
+| 3 | 345 | 乱属性クリスタルx800(9,600/12,000) | 禁断の地エウレカ アネモス帯 | 
+| 4 | 355 | パズズの羽根x3(39/45) | 禁断の地エウレカ アネモス帯 | 
+| 5 | 360 | 乱属性クリスタル【氷】x5(75/75) | 禁断の地エウレカ パゴス帯 | 
+| 6 | 365 | 乱属性クリスタル【氷】x10(150/150)<br />パゴスクリスタルx500(7,500/7,500) | 禁断の地エウレカ パゴス帯 | 
+| 7 | 370 | 乱属性クリスタル【氷】x16(240/240)<br />ロウヒの氷片x5(75/75) | 禁断の地エウレカ パゴス帯 | 
+| 8 | 375 | ピューロスクリスタルx150(2,250/2,250) | 禁断の地エウレカ ピューロス帯 | 
+| 9 | 380 | ピューロスクリスタルx200(3,000/3,000) | 禁断の地エウレカ ピューロス帯 | 
+| 10 | 385 | ピューロスクリスタルx300(4,500/4,500)<br />ペンテシレイアの種火x5(75/75) | 禁断の地エウレカ ピューロス帯 | 
+| 11 | 390 | ヒュダトスクリスタル×50(750/750) | 禁断の地エウレカ ヒュダトス帯 | 
+| 12 | 395 | ヒュダトスクリスタルx100(1,500/1,500) | 禁断の地エウレカ ヒュダトス帯 | 
+| 13 | 400 | ヒュダトスクリスタルx100(1,500/1,500) | 禁断の地エウレカ ヒュダトス帯 | 
+| 14 | 405 | ヒュダトスクリスタルx100(1,500/1,500)<br />水晶龍の鱗x5(75/75) | 禁断の地エウレカ ヒュダトス帯 | 
+| 15 | 405 | エウレカの断片x100(1,500/1,500) | バルデシオン・アーセナル | 
+
+---
+(C) SQUARE ENIX CO., LTD. All Rights Reserved.
+
+<script src="https://img.finalfantasyxiv.com/lds/pc/global/js/eorzeadb/loader.js?v2"></script>
