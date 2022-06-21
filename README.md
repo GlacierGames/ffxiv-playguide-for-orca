@@ -1,4 +1,4 @@
-# FFXIV PlayGuide for ORCA
+# [FFXIV PlayGuide for ORCA](https://glaciergames.github.io/ffxiv-playguide-for-orca/)
 
 ## Description
 
