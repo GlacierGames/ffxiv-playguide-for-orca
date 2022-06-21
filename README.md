@@ -6,9 +6,9 @@
 
 ## Content
 
-- [Job Guide](/jobs/)
-- [macros](/macros/)
-- [Relic Weapons](/relicweapons/)
+- [Job Guide](./jobs/)
+- [macros](./macros/)
+- [Relic Weapons](./relicweapons/)
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
