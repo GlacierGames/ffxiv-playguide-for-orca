@@ -13,14 +13,14 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/aw/)
 
 | Phase | Name | Progress | ナ | 戦 | 暗 | 白 | 学 | 占 | モ | 竜 | 忍 | 詩 | 機 | 黒 | 召 |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | アニマウェポン | 2/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
-| 2 | アウォーク | 1/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
-| 3 | 煌めくアニマウェポン | 1/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
-| 4 | コンダクト | 1/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
-| 5 | 磨かれしアニマウェポン | 1/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
-| 6 | シャープ | 1/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: |
-| 7 | 真なるアニマウェポン | 0/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| 8 | ルクス | 0/13 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
+| 1 | アニマウェポン | 2/13 | - | - | ✅ | - | - | - | - | - | - | - | - | ✅ | - |
+| 2 | アウォーク | 1/13 | - | - | - | - | - | - | - | - | - | - | - | ✅ | - |
+| 3 | 煌めくアニマウェポン | 1/13 | - | - | - | - | - | - | - | - | - | - | - | ✅ | - |
+| 4 | コンダクト | 1/13 | - | - | - | - | - | - | - | - | - | - | - | ✅ | - |
+| 5 | 磨かれしアニマウェポン | 1/13 | - | - | - | - | - | - | - | - | - | - | - | ✅ | - |
+| 6 | シャープ | 1/13 | - | - | - | - | - | - | - | - | - | - | - | ✅ | - |
+| 7 | 真なるアニマウェポン | 0/13 | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| 8 | ルクス | 0/13 | - | - | - | - | - | - | - | - | - | - | - | - | - |
 
 ## Wepon detail
 

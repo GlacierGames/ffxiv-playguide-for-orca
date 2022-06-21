@@ -13,12 +13,12 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/rw/)
 
 | Phase | Name | Progress | ナ | 戦 | 暗 | ガ | 白 | 学 | 占 | モ | 竜 | 忍 | 侍 | 詩 | 機 | 踊 | 黒 | 召 | 赤 |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | レジスタンスウェポン | 10/17 | :white_check_mark: | :heavy_multiplication_x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: |
-| 2 | レジスタンスウェポンRE | 4/17 | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: |
-| 3 | リコレクション | 3/17 | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: |
-| 4 | ジャッジオーダー | 2/17 | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | 
-| 5 | ジャッジオーダーRE | 1/17 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :white_check_mark: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | 
-| 6 | ブレイズ | 0/17 | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | :heavy_multiplication_x: | 
+| 1 | レジスタンスウェポン | 10/17 | ✅ | - | ✅ | ✅ | ✅ | ✅ | ✅ | - | ✅ | - | ✅ | - | ✅ | - | - | - | ✅ |
+| 2 | レジスタンスウェポンRE | 4/17 | ✅ | - | - | - | ✅ | - | ✅ | - | - | - | - | - | - | - | - | - | ✅ |
+| 3 | リコレクション | 3/17 | ✅ | - | - | - | ✅ | - | ✅ | - | - | - | - | - | - | - | - | - | - |
+| 4 | ジャッジオーダー | 2/17 | ✅ | - | - | - | - | - | ✅ | - | - | - | - | - | - | - | - | - | - | 
+| 5 | ジャッジオーダーRE | 1/17 | - | - | - | - | - | - | ✅ | - | - | - | - | - | - | - | - | - | - | 
+| 6 | ブレイズ | 0/17 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | 
 
 ## Wepon detail
 
