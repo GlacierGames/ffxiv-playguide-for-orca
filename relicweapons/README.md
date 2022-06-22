@@ -1,6 +1,6 @@
 # Relic Weapons Guide
 
-## Content 
+## Contents
 
 - [50: Zodiac Weapons](./50-ZodiacWeapons.md)
 - [60: Anima Weapons](./60-AnimaWeapons.md)

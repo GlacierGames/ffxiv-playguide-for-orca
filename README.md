@@ -4,7 +4,7 @@
 
 自分用のFFXIVメモです。
 
-## Content
+## Contents
 
 - [Job Guide](./jobs/)
 - [macros](./macros/)
