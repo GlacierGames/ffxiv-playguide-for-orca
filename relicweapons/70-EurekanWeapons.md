@@ -1,3 +1,5 @@
+> [TOP](../README.md) > [Relic Weapons Guide](./README.md)
+
 # 70-EurekanWeapons
 
 ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/ew/)
