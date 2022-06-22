@@ -1,6 +1,6 @@
 > [TOP](../README.md) > [Relic Weapons Guide](./README.md)
 
-# 90-XXXWeapons
+# ??-TemplateWeapons
 
 ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/)
 
