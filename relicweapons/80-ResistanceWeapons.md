@@ -1,3 +1,5 @@
+> [TOP](../README.md) > [Relic Weapons Guide](./README.md)
+
 # 80-ResistanceWeapons
 
 ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/rw/)
@@ -27,12 +29,12 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/rw/)
 
 | Phase | IL | Quest | 素材 | 入手方法 |
 | :---: | :---: | :--- | :--- | :--- |
-| 1 | 485 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/4bd506e3dcb/" class="eorzeadb_link">新たな「レジスタンス・ウェポン」の製造</a> | サベネアの霊鱗粉×4(28/68) | 詩学250 | 
-| 2 | 500 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/9673c789ba9/" class="eorzeadb_link">「レジスタンス・ウェポン」への記憶定着</a> | {::nomarkdown}<ul><li>悩ましき記憶の一塊×20(260/340)</li><li>悲しき記憶の一塊×20(260/340)</li><li>恐ろしき記憶の一塊×20(260/340)</li>{:/} | {::nomarkdown}<ul><li>クルザス西部高地/アバラシア雲海FATE</li><li>高地ドラヴァニア/ドラヴァニア雲海FATE</li><li>低地ドラヴァニア/アジスラーFATE</li><li>ボズヤ戦線</li>{:/} | 
-| 3 | 500 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/f267d4d0aac/" class="eorzeadb_link">猛々しき記憶を「レジスタンス・ウェポン」へ</a> | 猛々しき記憶の一塊×6(84/102) | 60ID,レベルレ<br />ボズヤ戦線 | 
-| 4 | 510 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/39fc3e4a86a/" class="eorzeadb_link">形を変えし「レジスタンス・ウェポン」</a> | 苦々しき記憶の一塊×15(225/255) | クリスタルタワー<br />ボズヤ戦線CE,攻城戦 | 
-| 5 | 515 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/f49e076d1e1/" class="eorzeadb_link">「レジスタンス・ウェポン」は新たな道を</a> | 打ち捨てられた遺物×15(240/255) | 死者の宮殿<br />グンヒルドディルーブラム |
-| 6 | 535 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/a0f4270b30f/" class="eorzeadb_link">真の「レジスタンス・ウェポン」</a> | 輝かしき激情の一塊×15(255/255) | アメノミハシラ<br />70ID<br />グンヒルドディルーブラム,ダルリアータ | 
+| 1 | 485 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/4bd506e3dcb/" class="eorzeadb_link">新たな「レジスタンス・ウェポン」の製造</a> | {::nomarkdown}<ul><li>サベネアの霊鱗粉×4(28/68)</li></ul>{:/} | {::nomarkdown}<ul><li>詩学250</li></ul>{:/} | 
+| 2 | 500 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/9673c789ba9/" class="eorzeadb_link">「レジスタンス・ウェポン」への記憶定着</a> | {::nomarkdown}<ul><li>悩ましき記憶の一塊×20(260/340)</li><li>悲しき記憶の一塊×20(260/340)</li><li>恐ろしき記憶の一塊×20(260/340)</li></ul>{:/} | {::nomarkdown}<ul><li>クルザス西部高地/アバラシア雲海FATE</li><li>高地ドラヴァニア/ドラヴァニア雲海FATE</li><li>低地ドラヴァニア/アジスラーFATE</li><li>ボズヤ戦線</li></ul>{:/} | 
+| 3 | 500 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/f267d4d0aac/" class="eorzeadb_link">猛々しき記憶を「レジスタンス・ウェポン」へ</a> |{::nomarkdown}<ul><li> 猛々しき記憶の一塊×6(84/102)</li></ul>{:/} | {::nomarkdown}<ul><li>60ID</li><li>レベルレ</li><li>ボズヤ戦線</li></ul>{:/} | 
+| 4 | 510 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/39fc3e4a86a/" class="eorzeadb_link">形を変えし「レジスタンス・ウェポン」</a> | {::nomarkdown}<ul><li>苦々しき記憶の一塊×15(225/255)</li></ul>{:/} | {::nomarkdown}<ul><li>クリスタルタワー</li><li>ボズヤ戦線CE</li><li>攻城戦</li></ul>{:/} | 
+| 5 | 515 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/f49e076d1e1/" class="eorzeadb_link">「レジスタンス・ウェポン」は新たな道を</a> | {::nomarkdown}<ul><li>打ち捨てられた遺物×15(240/255)</li></ul>{:/} | {::nomarkdown}<ul><li>死者の宮殿</li><li>グンヒルドディルーブラム</li></ul>{:/} |
+| 6 | 535 | <a href="https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/a0f4270b30f/" class="eorzeadb_link">真の「レジスタンス・ウェポン」</a> | {::nomarkdown}<ul><li>輝かしき激情の一塊×15(255/255)</li></ul>{:/} | {::nomarkdown}<ul><li>70ID</li><li>アメノミハシラ</li><li>グンヒルドディルーブラム</li><li>ダルリアータ</li></ul>{:/} | 
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.

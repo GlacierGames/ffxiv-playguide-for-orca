@@ -1,3 +1,5 @@
+> [TOP](../README.md) > [Relic Weapons Guide](./README.md)
+
 # 50-ZodiacWeapons
 
 ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/zw/)
@@ -42,3 +44,5 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/zw/)
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
+
+<script src="https://img.finalfantasyxiv.com/lds/pc/global/js/eorzeadb/loader.js?v2"></script>
