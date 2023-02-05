@@ -57,5 +57,3 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/ew/)
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
-
-<script src="https://img.finalfantasyxiv.com/lds/pc/global/js/eorzeadb/loader.js?v2"></script>
