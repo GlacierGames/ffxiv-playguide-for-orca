@@ -9,6 +9,7 @@
 - [Job Guide](./jobs/)
 - [macros](./macros/)
 - [Relic Weapons](./relicweapons/)
+- [Patch Update](./general/prepare-for-patch-updates.md)
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
