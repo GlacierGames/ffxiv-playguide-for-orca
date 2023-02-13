@@ -8,6 +8,7 @@
 - [60: Anima Weapons](./60-AnimaWeapons.md)
 - [70: Eurekan Weapons](./70-EurekanWeapons.md)
 - [80: Resistance Weapons](./80-ResistanceWeapons.md)
+- [90: Manderville Weapons](./90-MandervilleWeapons.md)
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
