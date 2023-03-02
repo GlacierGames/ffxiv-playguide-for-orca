@@ -87,4 +87,4 @@
 |コンテンツ名|実装パッチ|下限IL|上限IL|報酬IL|開放クエスト|前提クエスト|
 |:---|:---|:---|:---|:---|:---|:---|
 |輝ける神域 アグライア|6.1|565|-|590|[委員会へのとある依頼](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/8e914168c97/) からの一連のクエスト|[新たなる冒険編 - 姉と弟](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/ed1bce7ae94/)|
-|喜びの神域 エウプロシュネ|6.3||-||[喜びの神域 エウプロシュネ](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/8e914168c97/)|[探検家の素顔](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/b4bc02e883a/)|
+|喜びの神域 エウプロシュネ|6.3|595|-|620|[喜びの神域 エウプロシュネ](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/8e914168c97/)|[探検家の素顔](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/b4bc02e883a/)|
