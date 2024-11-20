@@ -10,12 +10,13 @@
 | :-- | :-- |
 | Common | **ノックバック無効**{::nomarkdown}<ul><li>[2.x] アームズレングス (自/120s)</li><li>[2.x] 堅実魔 (自/120s)</li></ul>{:/}**スタン**{::nomarkdown}<ul><li>[2.x] ロウブロウ (敵/25s)</li><li>[2.x] レッグスウィープ (敵/40s)</li></ul>{:/} |
 | Tank | 防御バフ<br>軽減・単体<br>軽減・範囲 |
-| Healer |  |
+| Healer | {::nomarkdown}<ul> <li>白 <ul> <li>[2.x] ベネディクション(単/180s)</li> <li>[3.x] ハート・オブ・ソラス(単/ヒーリングリリー)</li> <li>[3.x] アサイズ(範/40s)</li> </ul> </li> </ul>{:/} |
 | Melee | |
 | Range | |
 | Caster | |
 
-<!-- 編集用
+{% comment %}
+
 # Common
 **ノックバック無効**
 {::nomarkdown}<ul>
@@ -47,7 +48,9 @@
 {::nomarkdown}<ul>
     <li>白
         <ul>
-            <li>[2.x] ベネディクション(単/180s)</li>
+            <li>[2.x|単/180s] ベネディクション()</li>
+            <li>[3.x] ハート・オブ・ソラス(単/ヒーリングリリー)</li>
+            <li>[3.x] アサイズ(範/40s)</li>
         </ul>
     </li>
 </ul>{:/}
@@ -90,3 +93,6 @@
     <li></li>
 </ul>{:/}
 >
+
+
+{% endcomment %}
