@@ -2,6 +2,8 @@
 
 # Job Guide
 
+[Job guide for RAID](./jobguide-for-raid.md)
+
 ## Contents
 
 ### Tank
