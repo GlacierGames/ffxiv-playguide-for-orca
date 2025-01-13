@@ -23,8 +23,8 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/aw/)
 | 4 | コンダクト | 3/13 | ✅ | - | ✅ | - | - | - | - | □ | - | - | - | ✅ | - |
 | 5 | 磨かれしアニマウェポン | 3/13 | ✅ | - | ✅ | - | - | - | - | □ | - | - | - | ✅ | - |
 | 6 | シャープ | 3/13 | ✅ | - | ✅ | - | - | - | - | □ | - | - | - | ✅ | - |
-| 7 | 真なるアニマウェポン | 2/13 | □ | - | ✅ | - | - | - | - | - | - | - | - | ✅ | - |
-| 8 | ルクス | 2/13 | □ | - | ✅ | - | - | - | - | - | - | - | - | ✅ | - |
+| 7 | 真なるアニマウェポン | 3/13 | ✅ | - | ✅ | - | - | - | - | - | - | - | - | ✅ | - |
+| 8 | ルクス | 3/13 | ✅ | - | ✅ | - | - | - | - | - | - | - | - | ✅ | - |
 
 ## Wepon detail
 
@@ -40,8 +40,8 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/aw/)
 | 5 | 240 | [人造精霊は開花する](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/1ef99ba9eeb/) | 硬霊性岩x60(600/780)<br />クリスタルサンドx60(600/780) | 詩学75<br />各種交換(ムーンストーンx150)
 | 6 | 260 | [人造精霊の未来](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/855114f5906/) | 活性化クラスターx50(500/650) | 詩学40 | 
 | 7 | 270 | [人造精霊は咲き誇る](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/496ec3951a9/) | **右記のコンテンツをクリア**<br />輝き集め(アレキ零式天動1 20週) | 1. 古アムダプール市街HARD<br />2. グブラHARD<br />3. ソーム・アルHARD |
-| 7.1 | 270 | [新生ソウルストーンの創造](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/637f7078f64/) | 謎めいた結晶x15(165/195) | - |
-| 8 | 275 | [人造精霊の相棒](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/9da6270b969/) | **右記のコンテンツをクリア**<br />古式エンチャントインクx1(11/13) | 真イフリート<br />真ガルーダ<br />真タイタン<br />善王モグル・モグ<br />真リヴァイアサン<br />真ラムウ<br />真シヴァ<br />真ラーヴァナ<br />真ビスマルク<br />セフィロト<br />ソフィア<br />ズルワーン<br />古式エンチャントインク: 詩学500 |
+| 7.1 | 270 | [新生ソウルストーンの創造](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/637f7078f64/) | 謎めいた結晶x15(150/195) | - |
+| 8 | 275 | [人造精霊の相棒](https://jp.finalfantasyxiv.com/lodestone/playguide/db/quest/9da6270b969/) | **右記のコンテンツをクリア**<br />古式エンチャントインクx1(10/13) | 真イフリート<br />真ガルーダ<br />真タイタン<br />善王モグル・モグ<br />真リヴァイアサン<br />真ラムウ<br />真シヴァ<br />真ラーヴァナ<br />真ビスマルク<br />セフィロト<br />ソフィア<br />ズルワーン<br />古式エンチャントインク: 詩学500 |
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
