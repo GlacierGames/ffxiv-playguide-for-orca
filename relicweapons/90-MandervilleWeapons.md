@@ -20,7 +20,7 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/mw/)
 | 1 | マンダヴィルウェポン | 9/19 | - | ✅ | - | ✅ | - | - | ✅ | ✅ | ✅ | - | □ | ✅ | ✅ | □ | □ | ✅ | - | - | ✅ |
 | 2 | アメイジング | 9/19 | - | ✅ | - | ✅ | - | - | ✅ | ✅ | ✅ | - | □ | ✅ | ✅ | □ | □ | ✅ | - | - | ✅ |
 | 3 | マジェスティック | 7/19 | - | ✅ | - | - | - | - | ✅ | ✅ | ✅ | - | □ | ✅ | - | □ | □ | ✅ | - | - | ✅ |
-| 4 | マンダヴィラス | 1/19 | - | - | - | - | - | - | ✅ | - | - | - | - | - | - | - | □ | - | - | - | - |
+| 4 | マンダヴィラス | 2/19 | - | ✅ | - | - | - | - | ✅ | - | - | - | - | - | - | - | □ | - | - | - | - |
 
 
 ## Weapon detail
@@ -30,10 +30,10 @@ ref: [FFXIV WEAPONCOLLECTION](https://weapon.ffxivcollection.com/where/mw/)
 
 | Phase | IL | Quest | 素材 | 入手方法 |
 | :---: | :---: | :--- | :--- | :--- |
-| 1 | 615 | もうひとつのマンダヴィルウェポン | {::nomarkdown}<ul><li>希少メテオライトx3(30/57)</li></ul>{:/} | {::nomarkdown}<ul><li>天文500</li></ul>{:/} | 
-| 2 | 630 | 驚くべきマンダヴィルウェポン | {::nomarkdown}<ul><li>希少コンドライトx3(30/57)</li></ul>{:/} | {::nomarkdown}<ul><li>天文500</li></ul>{:/} | 
-| 3 | 645 | 堂々たるマンダヴィルウェポン | {::nomarkdown}<ul><li>希少エイコンドライトx3(36/57)</li></ul>{:/} | {::nomarkdown}<ul><li>天文500</li></ul>{:/} | 
-| 4 | 665 | 素晴らしきマンダヴィルウェポン | {::nomarkdown}<ul><li>クリスタライトx3(54/57)</li></ul>{:/} | {::nomarkdown}<ul><li>天文500</li></ul>{:/} | 
+| 1 | 615 | もうひとつのマンダヴィルウェポン | {::nomarkdown}<ul><li>希少メテオライトx3(30/57)</li></ul>{:/} | {::nomarkdown}<ul><li>詩学500</li></ul>{:/} | 
+| 2 | 630 | 驚くべきマンダヴィルウェポン | {::nomarkdown}<ul><li>希少コンドライトx3(30/57)</li></ul>{:/} | {::nomarkdown}<ul><li>詩学500</li></ul>{:/} | 
+| 3 | 645 | 堂々たるマンダヴィルウェポン | {::nomarkdown}<ul><li>希少エイコンドライトx3(36/57)</li></ul>{:/} | {::nomarkdown}<ul><li>詩学500</li></ul>{:/} | 
+| 4 | 665 | 素晴らしきマンダヴィルウェポン | {::nomarkdown}<ul><li>クリスタライトx3(51/57)</li></ul>{:/} | {::nomarkdown}<ul><li>詩学500</li></ul>{:/} | 
 
 ---
 (C) SQUARE ENIX CO., LTD. All Rights Reserved.
